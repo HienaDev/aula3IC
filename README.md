@@ -1,2 +1,1 @@
-# Git-class
-Files to be cloned for the class about git
+Isto é o meu website pessoal, adoro o meu website pessoal, foi muito bem feito por mim, sim
